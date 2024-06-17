@@ -7,4 +7,5 @@
     <a class="${active == 'HomeColor' ? 'setBold' : ''}" href="HomeController">Home</a>
     <a class="${active == 'MenuColor' ? 'setBold' : ''}" href="MenuController">Menu and Price list</a>
     <a class="${active == 'FindUsColor' ? 'setBold' : ''}" href="InfoController">Find us</a>
+    <a href="login.jsp">Login</a>
 </div>
